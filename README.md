@@ -11,6 +11,7 @@
 
 There should be no necessary libraries to run the code here beyond common Python libaries.  The code should run with no issues using Python version 3.*.
 The code can be found on Github: https://github.com/FlorianPerras/Project_Capstone
+A blog post about the project as well as the results can be found here: https://medium.com/@flo92-perras/tired-of-looking-for-starbucks-offers-this-time-is-over-now-6f08bec05ca0
 
 ## Project Motivation<a name="motivation"></a>
 
